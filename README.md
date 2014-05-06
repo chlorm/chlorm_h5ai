@@ -3,6 +3,7 @@
 The preferred way to report a bug or make a feature request is to
 create [a new issue](https://github.com/lrsjng/h5ai/issues/new) on GitHub!
 
+View a demo: [mirrors.chlorm.net](http://mirrors.chlorm.net)
 
 ## Install
 
