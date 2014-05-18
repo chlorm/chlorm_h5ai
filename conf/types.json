@@ -6,7 +6,7 @@ File types mapped to file extensions
 */
 
 {
-	"archive":			[".tar.bz2", ".tar.gz", ".tgz", ".tar.xz"],
+	"archive":			[".tar.bz2", ".bz2", ".tar.gz", ".tgz", ".tar.xz", ".xz"],
 	"audio":			[".aif", ".aiff", ".flac", ".m4a", ".mid", ".mp3", ".mpa", ".ra", ".ogg", ".wav", ".wma"],
 	"authors":			["authors"],
 	"bin":				[".class", ".o", ".so"],
@@ -69,5 +69,5 @@ File types mapped to file extensions
 	"vcal":				[".vcal"],
 	"video":			[".avi", ".flv", ".mkv", ".mov", ".m4v", ".mp4", ".mpg", ".rm", ".swf", ".ts", ".vob", ".wmv"],
 	"xml":				[".xml"],
-	"zip":				[".7z", ".bz2", ".jar", ".lzma", ".war", ".z", ".Z", ".zip"]
+	"zip":				[".7z", ".jar", ".lzma", ".war", ".z", ".Z", ".zip"]
 }
